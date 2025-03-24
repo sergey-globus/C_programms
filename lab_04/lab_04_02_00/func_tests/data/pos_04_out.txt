@@ -1,0 +1,2 @@
+Result: light 4
+bright 3

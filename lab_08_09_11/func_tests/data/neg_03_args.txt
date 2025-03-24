@@ -1,0 +1,1 @@
+o func_tests/data/neg_03_mtr_1.txt func_tests/data/neg_03_mtr_2.txt out/out.txt
